@@ -36,6 +36,4 @@ I am currently architecting a 5-Tier Municipal Operating System that utilizes AI
 - **Portfolio:** [https://andymthembu.netlify.app/]
 - **Email:** [SAMthembu@gmail.com]
 
-## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EndzDrink&theme=nightowl)](https://git.io/streak-stats)
